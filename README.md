@@ -1,4 +1,4 @@
-# USA-Weather-API
+# Weather Fetcher
 This program will take the name of a city and output the name and the current weather of the city.
 
 Enter a city name: boston
